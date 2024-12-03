@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning cloud computing and data visualizations<br>I want to become a full stack dev and a good problem solver<br>I teach programming, Python, C++, Digital Literacy and cyber security.<br>I work as a data scientist.
+I'm currently learning cloud computing <br>I teach programming, Python, C++, Digital Literacy and cyber security.<br>I work as a data scientist.
 
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=website&logoColor=white)](https://mohammad-owais.netlify.app/) 
