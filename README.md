@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/the-mohammad-owais)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@i211762)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/AP2KMO)
-[![Reddit](https://img.shields.io/badge/Reddit-%23E4405F.svg?logo=Reddit&logoColor=white)]((https://www.reddit.com/user/M_Owais_kh/))
+[![Reddit](https://img.shields.io/badge/Reddit-%23E4405F.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/M_Owais_kh/)
 
 # 💻 Tech Stack:
 ## 🧑‍💻 **Programming Languages & Frameworks**:
