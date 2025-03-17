@@ -1,6 +1,6 @@
 # 💫 About Me:
 - Lifelong learner & tech enthusiast
-- Volunteer CS teacher for the betterment of the country
+- Volunteer CS teacher for the betterment of 🇵🇰Pakistan
 - Advocate for digital literacy, privacy, distributed systems & true personal ownership
 - Science communicator, simplifying complex topics
 
