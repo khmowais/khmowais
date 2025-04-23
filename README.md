@@ -7,30 +7,28 @@
 ## 🌐 Socials to contact:
 [![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=website&logoColor=white)](https://mohammad-owais.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/the-mohammad-owais)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@i211762)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/AP2KMO)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@i211762)
 [![Reddit](https://img.shields.io/badge/Reddit-%23E4405F.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/M_Owais_kh/)
 
 # 💻 Tech Stack:
 ## 🧑‍💻 **Programming Languages & Frameworks**:
 - **General-Purpose Languages**:
-  - ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+  - ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 - **Web Frameworks**:
-  - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/flask-%2310282F.svg?style=flat&logo=flask&logoColor=white)
-- **Other Languages**:
-  - ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)
+  - ![Flask](https://img.shields.io/badge/flask-%2310282F.svg?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)
 
 ## 🛠 **Development Tools**:
 - **IDE & Editors**:
-  - ![Emacs](https://img.shields.io/badge/emacs-%233B5E3C.svg?style=flat&logo=emacs&logoColor=white)
-![Nano](https://img.shields.io/badge/nano-%23000000.svg?style=flat&logo=nano&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
+- ![micro](https://github.com/zyedidia/micro/blob/master/assets/micro-logo-mark.svg?style=flat&logo=micro&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=vscode&logoColor=white)
+![Nano](https://img.shields.io/badge/nano-%23000000.svg?style=flat&logo=nano&logoColor=white)
+
 - **Version Control**:
   - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
@@ -40,6 +38,7 @@
 - **Containerization & Orchestration**:
   - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![minikube](https://img.shields.io/badge/minikube-%23326ce5.svg?style=flat&logo=minikube&logoColor=white)
 
 ## 🗄 **Databases & Storage**:
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
@@ -50,6 +49,8 @@
 ## ⚡ **Cloud, Infrastructure & Virtualization**:
 - **Cloud Platforms**:
   - ![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=white)
+   ![openstack](https://img.shields.io/badge/openstack-%e83d18.svg?style=flat&logo=amazonaws&logoColor=white)
+
 - **Self-Hosting**:
   - **Kiwix**: Hosting offline content
   - **Ollama + OpenWebUI**: Running local LLMs with OpenWebUI for custom AI models
@@ -58,7 +59,6 @@
   - **Virtualization**:
   - ![VirtualBox](https://img.shields.io/badge/VirtualBox-%2300A0F0.svg?style=flat&logo=virtualbox&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![KVM](https://img.shields.io/badge/KVM-%2342989E.svg?style=flat&logo=kvm&logoColor=white)
 
 ## 🌐 **Networking & Security**:
 - **VPN & Networking**:
