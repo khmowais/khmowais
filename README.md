@@ -88,3 +88,7 @@
  ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat&logo=powerbi&logoColor=white)
  ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white)
  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=khmowais&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khmowais&theme=solarized-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khmowais&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
