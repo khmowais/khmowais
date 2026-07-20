@@ -8,12 +8,13 @@
 ## 🧑‍💻 **Programming Languages & Frameworks**:
 - **General-Purpose Languages**:
 
-  -![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-  -  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 - **Web Frameworks**:
-  - ![Flask](https://img.shields.io/badge/flask-%2310282F.svg?style=flat&logo=flask&logoColor=white)
+  - ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+    ![Flask](https://img.shields.io/badge/flask-%2310282F.svg?style=flat&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)
 
 ## 🛠 **Development Tools**:
