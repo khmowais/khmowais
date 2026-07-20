@@ -1,6 +1,5 @@
-# 💫 About Me:
-- Lifelong learner & tech enthusiast
-- Volunteer CS teacher for the betterment of 🇵🇰Pakistan
+# About Me:
+- Techie
 - Advocate for digital literacy, privacy, distributed systems & true personal ownership
 - Science communicator, simplifying complex topics
 
@@ -8,8 +7,9 @@
 # 💻 Tech Stack:
 ## 🧑‍💻 **Programming Languages & Frameworks**:
 - **General-Purpose Languages**:
-  - ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+  -![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+  -  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 - **Web Frameworks**:
